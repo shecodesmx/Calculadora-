@@ -39,7 +39,7 @@ python Calculadora.py
 
 ## 📸 Vista previa
 
-![Preview](Calculadora.png)
+![Preview](Calculadora/Calculadora.png)
 
 ---
 
